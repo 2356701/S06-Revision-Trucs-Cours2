@@ -957,7 +957,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: $0
+  m_text: s0.00
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d716b165371176349966a7817d28fa1a, type: 2}
   m_sharedMaterial: {fileID: -748141548286139278, guid: d716b165371176349966a7817d28fa1a,
@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _etiquettePoints: {fileID: 1431217872}
-  pointsJeu: 0
+  tempsJeu: 0
 --- !u!82 &2038989810
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1423,7 +1423,7 @@ Transform:
   m_GameObject: {fileID: 4996642998012036924}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.23, y: 1, z: -1.52}
+  m_LocalPosition: {x: 1.556, y: 1, z: -1.928}
   m_LocalScale: {x: 1.4154, y: 1.4154, z: 1.4154}
   m_ConstrainProportionsScale: 0
   m_Children: []

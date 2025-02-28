@@ -25,5 +25,7 @@ public class CreationAvecDelaiEtRepetition : MonoBehaviour
 
         // Applique une force de rotation initiale aléatoire
         _rbNouvelleCopie.AddRelativeTorque(0f, Random.value, Random.value, ForceMode.Impulse);
+
+       
     }
 }
